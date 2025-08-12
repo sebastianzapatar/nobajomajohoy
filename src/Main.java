@@ -5,6 +5,6 @@ public class Main {
         System.out.println("sosamajo estuvo aqui 100% real ❤️");
         System.out.println("Majo es re gay");
         System.out.println("Alejo is here or maybe no");
-        System.out.println("Sebas godsito")
+        System.out.println("Sebas godsito");
     }
 }
